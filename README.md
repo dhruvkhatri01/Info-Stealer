@@ -129,7 +129,7 @@ Python <file_name>.py # Run the Script.
 
 ---
 
-###📁 Output Location
+### 📁 Output Location
 
 **Data will be saved in the output/ directory:**
 
