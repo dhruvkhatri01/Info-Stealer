@@ -1,5 +1,3 @@
-# Info-Stealer Using Python 
-
 # 🕵️‍♂️ Information Stealer Using Python (For Educational Purposes)
 
 > ⚠️Disclaimer:-  This tool is developed **strictly for educational and ethical hacking training only**. Unauthorized use on any device or network without permission is **illegal**.
